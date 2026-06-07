@@ -247,7 +247,7 @@
 }
 
 \newcommand{\DrawFooter}{
-\vspace{2em}
+\vspace{1em}
 \newline
 Dňa: \printDate
 

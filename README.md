@@ -1,6 +1,6 @@
 # ÚRK – posudok oponenta BP – LaTeX šablóna
 
-LaTeX šablóna pre posudok oponenta platná na Ústave robotiky a kybernetiky FEI STU.
+LaTeX šablóna pre posudok oponenta bakalárskej práce platná na Ústave robotiky a kybernetiky FEI STU.
 
 ## Pokyny pre vyplnenie
 * [`main.tex`](main.tex) – Nastavenie základných údajov
