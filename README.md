@@ -1,0 +1,3 @@
+# Toto je README
+
+A toto je text v ňom...
