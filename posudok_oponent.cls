@@ -215,6 +215,7 @@
 \newcommand{\DrawWordEvaluation}[1]{
     Slovné hodnotenie: \\
     \input{#1}
+    \newline
 }
 
 \newcommand{\DrawNotesAndQuestions}[1]{
